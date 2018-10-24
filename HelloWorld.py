@@ -7,3 +7,5 @@ def helloworld():
 
 
 test = helloworld()
+if test:
+    print "it worked!", test
